@@ -1,4 +1,6 @@
 #!/usr/bin/env ruby
- 
-puts "Hello world"
+
+name="Anotida"
+
+puts "Hello #{name}"
 
